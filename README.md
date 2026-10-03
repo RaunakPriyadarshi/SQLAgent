@@ -33,6 +33,7 @@ SQLite Database
 Natural Language Answer
 
 🚀 Setup
+
 1. Install Dependencies
 pip install -r requirements.txt
 
@@ -55,6 +56,7 @@ Agent: Product F has the highest stock with 800 units.
 - 📈 Add interactive charts
 - 🌐 Build a Streamlit web interface
 - 🗄️ Support multiple databases
+
 👨‍💻 Author
 Raunak Priyadarshi Yadav
 M.Tech Data Science | IIT Roorkee
